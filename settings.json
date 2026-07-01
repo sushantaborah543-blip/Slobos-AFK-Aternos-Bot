@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Worldofpeace-1sZp.aternos.me",
+    "port": 22663
+  ,
     "version": "",
     "try-creative": false
   },
